@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1638562291 source:c:\users\jyoti\desktop\new folder (3)\headerfiles\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1638562285 c:\users\jyoti\desktop\new folder (3)\headerfiles\conio2.h
+	<conio.h>
+	<windows.h>
+
+1644603636 source:c:\users\jyoti\desktop\new folder (3)\new folder\lib\form.cpp
+	<iostream>
+	<conio.h>
+	"../../headerfiles/conio2.h"
+
+1644603645 source:c:\users\jyoti\desktop\new folder (3)\new folder\lib\menu.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"../../headerfiles/conio2.h"
+	<stdlib.h>
+	<windows.h>
+
+1644603684 source:c:\users\jyoti\desktop\new folder (3)\new folder\lib\loginpage.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<windows.h>
+	"../../headerfiles/conio2.h"
+	"../../headerfiles/menu.h"
+	"../../headerfiles/form.h"
+	<fstream>
+
+1638571643 c:\users\jyoti\desktop\new folder (3)\headerfiles\menu.h
+	<string>
+
+1643357929 c:\users\jyoti\desktop\new folder (3)\headerfiles\form.h
+	<string>
+
+1644603868 source:c:\users\jyoti\desktop\new folder (3)\new folder\new folder\main.cpp
+	<stdio.h>
+	<conio.h>
+	<iostream>
+	<windows.h>
+	"../../headerfiles/conio2.h"
+	"../../headerfiles/menu.h"
+	"../../headerfiles/login.h"
+	"../../headerfiles/form.h"
+	<fstream>
+	<ctime>
+
+1643368862 c:\users\jyoti\desktop\new folder (3)\headerfiles\login.h
+

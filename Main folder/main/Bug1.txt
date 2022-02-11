@@ -1,0 +1,5 @@
+Bug1
+About bugs---
+             A syntax Error occurs in the source code that
+             prevents the program from bieng compiled
+		properly
